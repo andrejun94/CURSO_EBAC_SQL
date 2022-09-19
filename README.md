@@ -60,13 +60,17 @@ Média do limite de crédito, média de valor transacional e média de quantidad
 
 - Temos maior frequencia de clientes que possuem faixa salarial anual menor de 40k
 
+- Temos maior frequencia de clientes com cartão blue
+
 - A média do limite de crédito aumenta conforme a faixa salarial anual aumenta
 
 - A média do valor transacional é maior para a menor faixa salarial anual
 
 - A média da quantidade de transacoes é maior para a menor faixa salarial anual
 
+- A média do valor transacional é menor para a maior faixa salarial anual
 
+- A média da quantidade de transacoes é menor para a maior faixa salarial anual
 
 
 
